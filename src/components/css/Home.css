@@ -31,7 +31,7 @@
 }
 
 .background-image {
-  background: url("/background.jpg") center no-repeat rgba(0, 0, 0, 0.7);
+  background: url("/background2.jpeg") center no-repeat rgba(0, 0, 0, 0.7);
   background-blend-mode: multiply;
   background-size: cover;
   height: 80vh;
