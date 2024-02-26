@@ -6,7 +6,7 @@ import { ApolloClient, InMemoryCache, ApolloProvider } from "@apollo/client";
 import { ContextProvider } from "./context/MyContext.jsx";
 
 const client = new ApolloClient({
-  uri: "http://localhost:4000/graphql",
+  uri: "https://tiny-tick-jersey.cyclic.app/graphql",
   cache: new InMemoryCache(),
 });
 
